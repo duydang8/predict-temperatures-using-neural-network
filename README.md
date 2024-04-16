@@ -1,1 +1,1 @@
-# predict-temperatures-using-neural-network
+Predict temperatures using neural network
